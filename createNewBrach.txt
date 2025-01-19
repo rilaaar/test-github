@@ -1,0 +1,4 @@
+step for create new branch: 
+1. git branch <name branch>
+2. git branch-a         //for showing list branch
+3. git chechout <name branch>
