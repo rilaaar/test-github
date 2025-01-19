@@ -1,1 +1,11 @@
 Test connceting to github 
+
+Step to connect github: 
+1. git init
+2. git remote origin <url repo>
+3. git remote -v  // to check connceting remote repo
+4. setting branch local to main <branch same with repo>
+5. git pull 
+6. git add . 
+7. git commit -m " comment " 
+8. git push 
