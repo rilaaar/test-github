@@ -2,3 +2,6 @@ step for create new branch:
 1. git branch <name branch>
 2. git branch-a         //for showing list branch
 3. git chechout <name branch>
+4. git add . 
+5. git commit -m "commet"
+6. git push --set-upstream origin <name branch>
