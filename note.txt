@@ -5,3 +5,4 @@ ini file file lain
 testttt apa aja
 
 add text 
+aaaaa
