@@ -1,0 +1,14 @@
+step to fixing conflict in github: 
+1. git clone <url repo> or git pull origin main <from main branch>
+2. git checkout 2ndBranch <name personal branch>
+3. git add .
+4. git git commit -m "comment"
+5. git push --set-upstream origin <name branch>
+6. confirm pull request in github, jangan di merge ke main dulu. 
+7. git merge <branch name yg conflict> 
+8. fixing conflict <manual>
+9. git add .
+10. git git commit -m "commet"
+11. git push --set-upstream origin <name branch>
+12. confirm pull request in github
+13. merge request in github
